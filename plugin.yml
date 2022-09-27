@@ -1,0 +1,8 @@
+main: com.alfredo.hsecurity
+version: 1.0
+name: YourNamePlugin
+author: AlfredoSH
+api-version: 1.13
+description: Your description plugin
+softdepend: [vault,example,hsecurity,]
+         
